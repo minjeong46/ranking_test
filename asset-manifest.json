@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/ranking_test/static/css/main.91f902cf.css",
+    "main.js": "/ranking_test/static/js/main.fa7eeb92.js",
+    "static/media/ico_img.png": "/ranking_test/static/media/ico_img.d3871c7a0605292c78ec.png",
+    "static/media/ico_bullet.png": "/ranking_test/static/media/ico_bullet.1591fa9445630b4e6614.png",
+    "static/media/icon_circle_left_arrow_black.svg": "/ranking_test/static/media/icon_circle_left_arrow_black.511544af8604ba34e4de.svg",
+    "index.html": "/ranking_test/index.html",
+    "main.91f902cf.css.map": "/ranking_test/static/css/main.91f902cf.css.map",
+    "main.fa7eeb92.js.map": "/ranking_test/static/js/main.fa7eeb92.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.91f902cf.css",
+    "static/js/main.fa7eeb92.js"
+  ]
+}
